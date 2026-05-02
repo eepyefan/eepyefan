@@ -1,7 +1,1 @@
-- 👋 Hello, I’m Ethan!
-- 👀 I’m interested in Python and Coding
-- 🌱 I’m currently learning Typescript and C++.
-- 💞️ I’m looking to collaborate on Private repositories fore game hacking or web development.
-- 📫 You can easily reach me at nuh uh
-- 😄 Pronouns: He/Him.
-- ⚡ Fun Fact, I really enjoy reverse engineering.
+
